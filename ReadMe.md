@@ -55,7 +55,7 @@ However, it does not have a structure for the Person because the person's attrib
 # Skill-Based-Assessment1 – The Electronic Puncher
 ## Author
 Niladri Sengupta (Neal)
-## 90-95%  functional within the scope of the SBA
+## Fully functional within the scope of the SBA1
 The program does behave as expected. This was assignment was interesting and similar to assignment 1. Knowing where to place the sleep() function was tricky. 
 ## Known Issues
 So far, the program runs smoothly and as intended. I have tested it in the scope of the lab.
