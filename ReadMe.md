@@ -1,6 +1,6 @@
 # Lab_01 - Hello World in QNX Executable project
 ## Setup Momentics IDE + Neutrino SDP to setup a simple project and print out "Hello World"
-
+================================================================================
 # Lab_02_PartA - Understanding Signal Processing with Signal-Handlers
 ## Fully functional within the scope of the Lab_02 Part A
 The program meets all the requirements and status of Lab_02_PartA. The program does behave as expected. However, if SIGUSR2 is sent as a signal, the program will terminate (regardless of the fact that there is no SIGUSR2-handler) because SIGUSR2 is also a termination signal by default and no message is displayed when SIGUSR2 is received (because this was not a requirement). Since there is only one process, there’s no worry for Zombie processes. The intention and preamble of the program is also written in the header of the source file.
